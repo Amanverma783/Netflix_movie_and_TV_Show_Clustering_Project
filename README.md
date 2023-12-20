@@ -73,7 +73,21 @@ We have the data of which contains details of customers like id , age, gender an
 
 **Implementing different clustering methods**
 
+**Conclusion**
 
-**Future Work**
+**1- Exploring the dataset consist of 7777 records and 12 attributes, with a focus on missing value imputation and exploratory data analysis (EDA).**
 
-From this clustering analysis we can create Netflix movies and tv shows recommendation systems & also we can use topic modelling.
+**2- The analysis revealed that Netflix has a greater number of movies than TV shows, with a rapidly growing collection of shows from the United States.**
+
+**3- It is interesting to note that the majority of the content available on Netflix consists of movies. However, in recent years, the platform has been focusing more on TV shows.**
+
+**4- Most of these shows are released either at the end or the beginning of the year.**
+
+**5- The United States and India are among the top five countries that produce all of the available content on the platform. Additionally, out of the top ten actors with the maximum content, six of them are from India.**
+
+**6- When it comes to content ratings, TV-MA tops the charts, indicating that mature content is more popular on Netflix.**
+
+**7- The value of k=15 was found to be optimal for clustering the data, and it was used to group the content into ten distinct clusters.**
+
+**8- Using this data, a Content based recommender system was created using cosine similarity, which provided recommendations for Movies and TV shows.**
+
